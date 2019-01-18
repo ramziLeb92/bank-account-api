@@ -11,7 +11,7 @@ To run this project, please follow those instructions
 Clone this repository:
 
 ```text
-    git clone gitadresse
+    git clone git://github.com/ramziLeb92/bank-account-api.git
 ```
 
 Then open the project with your IDE, Right click on the main class named BankAccountApplication, and then press "run BankAccountApplication".
